@@ -9,6 +9,8 @@ class FareApplicationTests {
 	@Test
 	void contextLoads() {
 
+
+
 	}
 
 }
